@@ -1,16 +1,27 @@
+<!-- Typing effect banner -->
+<p align="center">
+  <a href="https://github.com/SirMik3">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Python+%26+C%2B%2B+Developer;Fullstack+Developer;AI%2FML+%26+Crypto+Enthusiast;Economics+Student+%7C+Quant+Finance;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
 # 👋 Hey, I’m SirMik3
 
-💻 Passionate developer with a love for both low-level and high-level programming.  
-Currently diving deeper into **Rust** and **Cybersecurity**, while refining my skills across multiple domains.  
+💻 My name is **Michael**, and I am a **16 y.o. software developer from Cyprus**.  
+I specialize in **Python** and **C++**, with strong experience as a **Fullstack Developer**, while also working with **GLSL**, **PostgreSQL**, **Solidity**, **Vyper**, **C**, **Java**, and **system administration**.  
+I’m passionate about **cryptocurrency development**, **AI/ML data science**, and as an **economics student**, I enjoy exploring **financial market modeling**, **quantitative** and **fundamental analysis**.  
 
 ---
 
 ## 🚀 About Me
-- 🔧 Comfortable in **C / C++** & **OpenGL**  
-- 🐍 Specialized in **Python** (scripting, backend, automation, data workflows)  
-- 🌱 Learning **Rust** and exploring **Cybersecurity**  
+- 🌍 **Fullstack developer**  
+- 🔧 Comfortable in **C / C++** & **OpenGL/GLSL**  
+- 🐍 Specialized in **Python** (backend, scripting, automation, data workflows)  
+- 🌱 Learning **Rust** and diving into **Cybersecurity**  
 - ⚛️ Some experience with **React** for frontend development  
+- 🛢️ Experience with **PostgreSQL** & system administration  
 - 🔐 Interested in **smart contracts** (Solidity, Vyper) and secure coding  
+- 📊 Economics student with a passion for **quant finance** and **market analysis**  
 
 ---
 
@@ -22,12 +33,12 @@ Currently diving deeper into **Rust** and **Cybersecurity**, while refining my s
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/Vyper-2980b9?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 ### ⚙️ Tools & Platforms  
@@ -51,13 +62,13 @@ Currently diving deeper into **Rust** and **Cybersecurity**, while refining my s
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/michaelefarov">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourhandle">
+<!--   <a href="https://twitter.com/yourhandle">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:your@email.com">
+  </a> -->
+  <a href="mailto:mike.efarov@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
