@@ -19,8 +19,9 @@ I’m passionate about **cryptocurrency development**, **AI/ML data science**, a
 - 🐍 Specialized in **Python** (backend, scripting, automation, data workflows)  
 - 🌱 Learning **Rust** and diving into **Cybersecurity**  
 - ⚛️ Some experience with **React** for frontend development  
-- 🛢️ Experience with **PostgreSQL** & system administration  
+- 🛢️ Experience with **PostgreSQL**, **Redis** & system administration  
 - 🔐 Interested in **smart contracts** (Solidity, Vyper) and secure coding  
+- 🤖 Exploring **LangGraph** and **Lark** for AI and parsing workflows  
 - 📊 Economics student with a passion for **quant finance** and **market analysis**  
 
 ---
@@ -36,9 +37,12 @@ I’m passionate about **cryptocurrency development**, **AI/ML data science**, a
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/Vyper-2980b9?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/LangGraph-0A192F?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lark-00B140?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### ⚙️ Tools & Platforms  
