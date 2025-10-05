@@ -17,7 +17,7 @@ I’m passionate about **cryptocurrency development**, **AI/ML data science**, a
 - 🌍 **Fullstack developer**  
 - 🔧 Comfortable in **C / C++** & **OpenGL/GLSL**  
 - 🐍 Specialized in **Python** (backend, scripting, automation, data workflows)  
-- 🌱 Learning **Rust** and diving into **Cybersecurity**  
+- 🌱 Learning **Rust**, **Clojure** and diving into **Cybersecurity**  
 - ⚛️ Some experience with **React** for frontend development  
 - 🛢️ Experience with **PostgreSQL**, **Redis** & system administration  
 - 🔐 Interested in **smart contracts** (Solidity, Vyper) and secure coding  
