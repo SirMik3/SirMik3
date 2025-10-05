@@ -42,7 +42,7 @@ I’m passionate about **cryptocurrency development**, **AI/ML data science**, a
   <img src="https://img.shields.io/badge/Vyper-2980b9?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/LangGraph-0A192F?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lark-00B140?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clojure-00B140?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### ⚙️ Tools & Platforms  
