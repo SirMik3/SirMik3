@@ -7,28 +7,13 @@
 
 # 👋 Hey, I’m SirMik3
 
-💻 My name is **Michael**, and I am a **16 y.o. software developer from Cyprus**.  
-I specialize in **Python** and **C++**, with strong experience as a **Fullstack Developer**, while also working with **GLSL**, **PostgreSQL**, **Solidity**, **Vyper**, **C**, **Java**, and **system administration**.  
-I’m passionate about **cryptocurrency development**, **AI/ML data science**, and as an **economics student**, I enjoy exploring **financial market modeling**, **quantitative** and **fundamental analysis**.  
+My name is **Michael**, and I’m a 16-year-old software developer from Cyprus. I specialize in **Python** and **C++**, with strong experience as a fullstack developer, and I also work with **GLSL**, **PostgreSQL**, **Solidity**, **Vyper**, **Java**, and **system administration**. I’m comfortable with **OpenGL** and have hands-on experience building efficient backends, automation tools, and data workflows. Currently, I’m exploring **Rust**, **Clojure**, and diving into cybersecurity, while also experimenting with LangGraph and Lark for AI and parsing projects. As an economics student, I’m deeply interested in cryptocurrency development, quantitative finance, and market modeling — blending technology with financial analysis to build smarter, data-driven systems. 
 
 ---
 
-## 🚀 About Me
-- 🌍 **Fullstack developer**  
-- 🔧 Comfortable in **C / C++** & **OpenGL/GLSL**  
-- 🐍 Specialized in **Python** (backend, scripting, automation, data workflows)  
-- 🌱 Learning **Rust**, **Clojure** and diving into **Cybersecurity**  
-- ⚛️ Some experience with **React** for frontend development  
-- 🛢️ Experience with **PostgreSQL**, **Redis** & system administration  
-- 🔐 Interested in **smart contracts** (Solidity, Vyper) and secure coding  
-- 🤖 Exploring **LangGraph** and **Lark** for AI and parsing workflows  
-- 📊 Economics student with a passion for **quant finance** and **market analysis**  
+## Tech Stack & Tools
 
----
-
-## 🛠️ Tech Stack & Tools
-
-### 🖥️ Languages & Frameworks  
+### Languages & Frameworks  
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -42,7 +27,7 @@ I’m passionate about **cryptocurrency development**, **AI/ML data science**, a
   <img src="https://img.shields.io/badge/Clojure-00B140?style=for-the-badge&logo=clojure&logoColor=white" />
 </p>
 
-### ⚙️ Tools & Platforms  
+### Tools & Platforms  
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
@@ -55,7 +40,7 @@ I’m passionate about **cryptocurrency development**, **AI/ML data science**, a
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SirMik3&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirMik3&layout=compact&theme=tokyonight" />
@@ -64,7 +49,7 @@ I’m passionate about **cryptocurrency development**, **AI/ML data science**, a
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/michaelefarov">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
