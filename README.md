@@ -28,23 +28,13 @@ Most of what I make comes out of two habits: taking systems apart to see how the
 </p>
 
 <p align="center">
-  <em>currently learning</em><br />
+  <em>currently learning</em><br /><br />
   <img src="https://img.shields.io/badge/Vyper-2980b9?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-D14836?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
 
 ---
 
-<!-- Optional: uncomment and fill in.
-
-## What I'm Working On
-
-- **[project-name](https://github.com/SirMik3/project-name)** — one line on what it does.
-- **[project-name](https://github.com/SirMik3/project-name)** — one line on what it does.
-
----
-
--->
 
 ## Connect with Me
 <p align="center">
