@@ -30,6 +30,7 @@ Most of what I make comes out of two habits: taking systems apart to see how the
 <p align="center">
   <em>currently learning</em><br />
   <img src="https://img.shields.io/badge/Vyper-2980b9?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-D14836?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
 
 ---
