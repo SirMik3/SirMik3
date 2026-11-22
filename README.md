@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/terminal.svg" width="855" alt="Terminal card — michael@arch: real-time rendering and GLSL, market modelling and backtesting, Linux internals and networking, security; stack C, C++, Python, GLSL, React" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/SirMik3/SirMik3/main/assets/terminal-compact.svg" />
+    <img src="assets/terminal.svg" alt="Terminal card — michael@arch: market modelling and backtesting, real-time rendering and GLSL, Linux internals and networking, security; stack C, C++, Python, GLSL, React" />
+  </picture>
 </p>
 
 I'm **Michael**, a developer from Cyprus. I write **C/C++** and **Python**, use **GLSL** for real-time graphics, and build interfaces with **React**.
@@ -29,6 +32,7 @@ Most of what I make comes out of two habits: taking systems apart to see how the
 
 <p align="center">
   <em>currently learning</em><br />
+  
   <img src="https://img.shields.io/badge/Vyper-2980b9?style=for-the-badge&logo=ethereum&logoColor=white" />
 </p>
 
